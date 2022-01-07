@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ChandanP007
-- 👀 I’m interested in Development
-- 🌱 I’m currently learning Languages
-- 📫 How to reach me : Mail Me- chandan.dv682@gmail.com
+- 👋 Hi, I’m Chandan Pandey
+- 👀 Field of Interest : Web & Android
+- 🌱 Languages : C,C++,Java,SQL
+- 📫 Confident in MERN stack
 
 <!---
 ChandanP007/ChandanP007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
