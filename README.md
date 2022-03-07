@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Chandan Pandey
-- 👀 Field of Interest : Web & Android
-- 🌱 Languages : C,C++,Java,SQL
-- 📫 Confident in MERN stack
+- 👀 Interests : Web & Android
+- 🌱 Langugages : C,C++,Java,Kotlin, SQL
 
 <!---
 ChandanP007/ChandanP007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
