@@ -4,16 +4,20 @@
 
 
 <div class="gif" align="center">
-<img  align="center" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" height="170px"></div>
-<h3 align="center" style="font-family: poppins;">Hi 👋, I'm Chandan Pandey</h3><br>
+<img  align="center" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" height="160px"></div>
+<h1 align="center" style="font-family: poppins;">I'm Chandan Pandey</h2>
 
-<h4 align="center">Java Developer | Develops Android Applications | Student | Fullstack MERN Developer</h4><br><br>
 
-- 🔭 I’m currently working on <b>**Workout app**</b>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=4CF783&vCenter=true&lines=I+am+a+Student;Undergrad+at+JIS+University;Java+Developer;Develops+Android+Apps;Fullstack+MERN+Developer)](https://git.io/typing-svg)
+
+
+- 🔭 I’m currently working on <b>**Vecna**</b>
 
 - 🌱 I’m currently learning **Android**
 
-- 📫 How to reach me **chandan.dv682@gmail.com**
+- 📫 How to reach me <a href="mailto:name@email.com">Mail me</a>
+
+- 👨‍💻 All of my projects are available at <a href="https://github.com/ChandanP007">Github</a>
 <br><br><br><br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
