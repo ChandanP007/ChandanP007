@@ -8,8 +8,9 @@
 <h2 align="center" style="font-family: poppins;">I'm Chandan Pandey</h2>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=4CF783&vCenter=true&lines=I+am+a+Student;Undergrad+at+JIS+University;Java+Developer;Develops+Android+Apps;Fullstack+MERN+Developer)](https://git.io/typing-svg)
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=4CF783&vCenter=true&lines=I+am+a+Student;Undergrad+at+JIS+University;Java+Developer;Develops+Android+Apps;Fullstack+MERN+Developer...;&center=true">
+  </p>
 
 - 🔭 I’m currently working on <b>**Vecna**</b>
 
