@@ -12,11 +12,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=4CF783&vCenter=true&lines=I+am+a+Student;Undergrad+at+JIS+University;Java+Developer;Develops+Android+Apps;Fullstack+MERN+Developer...;&center=true">
   </p>
 
-- 🔭 I’m currently working on <b>**Vecna**</b>
+- 🔭 I’m currently working on <b>**SociYo**</b>
 
-- 🌱 I’m currently learning **Android**
+- 🌱 I’m currently learning **Android Development**
 
-- 📫 How to reach me <a href="mailto:name@email.com">Mail me</a>
+- 📫 How to reach me <a href="mailto:chandan.dv682@email.com">Mail me</a>
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/ChandanP007">Github</a>
 <br><br><br><br>
