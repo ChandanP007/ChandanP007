@@ -1,13 +1,14 @@
 
 <div class="gif" align="center">
 <img  align="center" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" height="160px"></div>
-<a href="#">
 <h1 align="center" style="font-family: poppins;">I'm Chandan Pandey</h1>
 
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=25&color=F7F007FF&vCenter=true&lines=I+am+a+Student;Undergrad+at+JIS+University;Programmer;Java+Developer;I+Develop+Android+Applications...;Fullstack+MERN+Developer...;&center=true">
-  </p>
+<img src="https://readme-typing-svg.herokuapp.com?size=25&color=F7F007FF&vCenter=true&lines=I+am+a+Student;Undergrad+at+JIS+University;Programmer;Java+Developer;Develops+Android+Apps;Fullstack+MERN+Developer...;&center=true">
+</p>
+  
+  
 
 - 🔭 I’m currently working on <b>**SociYo**</b>
 
