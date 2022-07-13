@@ -33,16 +33,7 @@
 <br><br>
 
 
-<h3 align="center" >Github Stats</h3><hr>
 
-<div class="streaks" align="center">
-    <p><img src="https://github-readme-streak-stats.herokuapp.com/?user=chandanp007&" alt="chandanp007" /></p>
-</div>
 
-<div class="langs" align="center">
-    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandanp007&show_icons=true&locale=en&layout=compact" alt="chandanp007" /></p></div>
-
-<div class="stats" align="center">
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandanp007&show_icons=true&locale=en" alt="chandanp007" /></p>
-</div>
-</div>
+![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChandanP007&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Chandan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ChandanP007&amp;theme=dark&amp;hide_border=true)
