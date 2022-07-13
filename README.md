@@ -48,3 +48,4 @@
 
 ![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChandanP007&theme=dark&show_icons=true&hide_border=true&count_private=true)
 ![Chandan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ChandanP007&amp;theme=dark&amp;hide_border=true)
+![Chandan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChandanP007&theme=xcode)
