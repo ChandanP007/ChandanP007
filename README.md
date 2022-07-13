@@ -47,8 +47,8 @@
 <h2 align="center">GitHub Stats</h2>
 <center>
 
-![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChandanP007&theme=dark&show_icons=true&hide_border=true&width=45px&count_private=true)
-![Chandan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ChandanP007&amp;theme=dark&amp;hide_border=true&width=45px)
+![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChandanP007&theme=dark&show_icons=true&hide_border=true&width=45%&count_private=true)
+![Chandan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ChandanP007&amp;theme=dark&amp;hide_border=true&width=45%)
 ![Chandan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChandanP007&theme=xcode)
 
 </center>
