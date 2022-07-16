@@ -18,6 +18,11 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://github.com/ChandanP007">Github</a>
 <br><br><br><br>
+
+<div class="stalkers" align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChandanP007%2Fhit-counter&count_bg=%23F33333&title_bg=%231B1A1A&icon=iconify.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
+</div>
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/chp_145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chp_145" height="30" width="40" /></a>
@@ -49,6 +54,6 @@
 
 ![Chandan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChandanP007&theme=dark&show_icons=true&hide_border=true&width=45%&count_private=true)
 ![Chandan's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=ChandanP007&amp;theme=dark&amp;hide_border=true&width=45%)
-![Chandan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChandanP007&theme=xcode)
+![Chandan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChandanP007&line_color=red&theme=xcode)
 
 </center>
