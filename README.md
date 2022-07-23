@@ -52,7 +52,7 @@
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanP007&hide_border=true&layout=compact&theme=dark)](https://github.com/ChandanP007/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanP007&hide_border=true&layout=compact&theme=highcontrast)](https://github.com/ChandanP007/github-readme-stats)
 
 </div>
 
