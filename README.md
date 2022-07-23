@@ -52,10 +52,10 @@
 <h2 align="center">GitHub Stats</h2>
 
 <a href="https://github.com/ChandanP007/github-readme-stats">
-  <img width= 48%  style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=ChandanP007&theme=dark&show_icons=true&hide_border=true&&count_private=true" />
+  <img width= 49%  style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=ChandanP007&theme=dark&show_icons=true&hide_border=true&&count_private=true" />
 </a>
 <a href="https://github.com/ChandanP007/convoychat">
-  <img width= 50% style="max-width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChandanP007&amp;theme=dark&amp;hide_border=true&card_width=20" />
+  <img width= 49% style="max-width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChandanP007&amp;theme=dark&amp;hide_border=true&card_width=20" />
 </a>
 
 
