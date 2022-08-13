@@ -53,16 +53,16 @@
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanP007&hide_border=true&layout=compact&theme=highcontrast)](https://github.com/ChandanP007/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChandanP007&hide_border=true&layout=compact&theme=dark)](https://github.com/ChandanP007/github-readme-stats)
 
 </div>
 
 <a href="https://github.com/ChandanP007/github-readme-stats">
-  <img width= 49%  style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=ChandanP007&theme=highcontrast&hide_border=true&show_icons=true&count_private=true" />
+  <img width= 49%  style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=ChandanP007&theme=dark&hide_border=true&show_icons=true&count_private=true" />
 </a>
 <a href="https://github.com/ChandanP007/convoychat">
-  <img width= 49% style="max-width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChandanP007&amp;theme=highcontrast&amp;hide_border=true" />
+  <img width= 49% style="max-width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChandanP007&amp;theme=dark&amp;hide_border=true" />
 </a>
 
-![Chandan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChandanP007&hide_border=true&line_color=red&theme=react-dark)
+
 
