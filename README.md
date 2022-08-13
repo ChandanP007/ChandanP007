@@ -64,5 +64,11 @@
   <img width= 49% style="max-width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChandanP007&amp;theme=dark&amp;hide_border=true" />
 </a>
 
+<div align="center">
+  
+  [![Chandan's github activity graph](https://activity-graph.herokuapp.com/graph?username=ChandanP007&theme=xcode&line=ffffff&point=ff5050&hide_border=true)](https://github.com/ChandanP007/github-readme-activity-graph)
+  
+</div>
+
 
 
