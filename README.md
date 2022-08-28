@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on <b>**SociYo**</b>
 
-- 🌱 I’m currently learning **Android Dev**
+- 🌱 I’m currently learning **Web Dev**
 
 - 📫 How to reach me <a href="mailto:chandan.dv682@email.com">Mail me</a>
 
