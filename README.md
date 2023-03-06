@@ -11,14 +11,6 @@
 </p>
   
   
-
-- 🔭 I’m currently working on <b>**SociYo**</b>
-
-- 🌱 I’m currently learning **Full stack Development**
-
-- 📫 How to reach me <a href="mailto:chandan.dv682@email.com">Mail me</a>
-
-- 👨‍💻 All of my projects are available at <a href="https://github.com/ChandanP007">Github</a>
 <br><br><br><br>
 
 <div class="stalkers" align="center">
