@@ -6,12 +6,12 @@
 
 
 
-<p align="center">
+<!-- <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?size=25&color=33cc33&vCenter=true&lines=I+am+a+Student;Undergrad+at+JIS+University;Programmer;Java+Developer;Develops+Android+Apps;Fullstack+MERN+Developer...;&center=true">
-</p>
+</p> -->
   
   
-<br><br><br><br>
+
 
 <div class="stalkers" align="center">
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChandanP007%2Fhit-counter&count_bg=%23F33333&title_bg=%231B1A1A&icon=iconify.svg&icon_color=%23E7E7E7&title=Visitors&edge_flat=false"/></a>
