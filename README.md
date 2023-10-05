@@ -34,5 +34,5 @@
 
 
 
-[![@chandannn's Holopin board](https://holopin.io/api/user/board?user=chandannn)](https://holopin.io/@chandannn)
+[![An image of @chandannn's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/chandannn)](https://holopin.io/@chandannn)
 
