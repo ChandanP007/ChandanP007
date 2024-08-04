@@ -20,16 +20,21 @@
 
 
 
-
-
 <h2 align="center">GitHub Stats</h2>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chandanp007" alt="chandanp007" /></a> </p>
+
+<p align="center">
+  
+ [![trophy](https://github-profile-trophy.vercel.app/?username=ChandanP007&theme=onedark&row=1&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy) 
+ 
+</p>
+
+
+<a href="https://github.com/ChandanP007/convoychat">
+  <img width= 49% style="max-width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChandanP007&amp;theme=dark&amp;hide_border=true" />
+</a>
 
 <a href="https://github.com/ChandanP007/github-readme-stats">
   <img width= 49%  style="max-width: 100%" src="https://github-readme-stats.vercel.app/api?username=ChandanP007&theme=dark&hide_border=true&show_icons=true&count_private=true" />
-</a>
-<a href="https://github.com/ChandanP007/convoychat">
-  <img width= 49% style="max-width: 100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ChandanP007&amp;theme=dark&amp;hide_border=true" />
 </a>
 
 
